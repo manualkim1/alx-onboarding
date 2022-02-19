@@ -1,0 +1,12 @@
+
+sum=0
+for i:=num1 to numn{
+square = num1*num1 to numn*numn
+sum += square;
+}
+
+
+
+print sum;
+}
+end

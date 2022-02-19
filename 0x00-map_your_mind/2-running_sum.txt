@@ -1,0 +1,12 @@
+let sum=0;
+let input=0;
+do
+{
+let input=prompt the user to enter number
+if(input>0)
+{
+sum=sum+input;
+}
+else
+{
+return sum;

@@ -1,0 +1,38 @@
+
+read in the three numbers and assign them to a,b and c respectively
+let a=first number;
+let b=second number;
+let c=third number;
+
+
+
+let tempA=0;
+
+
+
+if(b<a)
+{
+tempA=a;
+a=b;
+b=tempA;
+}
+
+
+
+if(c<b)
+{
+tempA=b
+b=c
+c=tempA
+
+
+
+if(b<a)
+{
+tempA=a
+a=b
+b=tempA
+}
+
+}
+end
